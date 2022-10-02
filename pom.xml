@@ -27,11 +27,11 @@
 		</dependency>
 
 
-		<dependency>
-			<groupId>com.graphql-java-kickstart</groupId>
-			<artifactId>graphql-spring-boot-starter</artifactId>
-			<version>14.0.0</version>
-		</dependency>
+<!--		<dependency>-->
+<!--			<groupId>com.graphql-java-kickstart</groupId>-->
+<!--			<artifactId>graphql-spring-boot-starter</artifactId>-->
+<!--			<version>14.0.0</version>-->
+<!--		</dependency>-->
 		<dependency>
 			<groupId>com.graphql-java-kickstart</groupId>
 			<artifactId>playground-spring-boot-starter</artifactId>
